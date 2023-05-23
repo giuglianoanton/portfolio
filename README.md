@@ -14,7 +14,7 @@ The app was developed as a small project used to understand, learn and practise 
 WeiToYou is an iOS app that allows to share direction and distance among devices connected together.
 It has been developed in SwiftUI, and uses the Multipeer Connectivity to create connection session among devices and Nearby Interaction to share distance and direction.
 
-## [L'Event](https://github.com/br3sc4/Chimera)
+## [L-Event](https://github.com/br3sc4/Chimera)
 ![Frame 30](https://github.com/giuglianoanton/portfolio/assets/113599844/783c9a98-fa52-4853-af00-9ed4c16048d6)
 <br>
 It is an iOS app that allows users to save memories from past events on their devices.
